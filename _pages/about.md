@@ -13,11 +13,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p><h7><b>Welcome!</b>  I'm Laura Prada, a young research economist with a keen interest in using insights into people's behavior to drive data-informed decisions. Currently, I'm working as a consultant at the Hertie School and also at Colombia's taxes administration institution, where I focus on designing behavioral interventions to boost tax compliance.</h7></p>
+<p><h7><b>Welcome!</b>  I am Laura Prada, a dynamic research economist driven by a profound interest in utilizing behavioral insights to inform data-driven decision-making in policymaking. Currently, I contribute to the field as a researcher within the behavioral team at Colombia's tax administration institution, where my focus revolves around the strategic design of behavioral interventions aimed at enhancing tax compliance. </h7></p>
 
-<p><h7>Before this, I had the opportunity to work as a consultant at the World Bank and as a research assistant at both Universidad del Rosario and the Central Bank of Colombia.</h7></p>
+<p><h7>In my professional journey, I have worked as a consultant at the Hertie School and the World Bank, in addition to serving as a research assistant at both Universidad del Rosario and the Central Bank of Colombia. </h7></p>
 
-<p><h7>My academic background includes an M.Sc. in Economics from Universidad del Rosario and a B.A. in Economics from Universidad Industrial de Santander. I'm particularly passionate about Experimental Economics, Development, Gender, and Behavioral Science, where I seek to make a meaningful impact. </h7></p>
+<p><h7> Educationally, I hold an M.Sc. in Economics from Universidad del Rosario and a B.A. in Economics from Universidad Industrial de Santander. My academic interests lie in the fields of Experimental Economics, Development, Gender Studies, and the intersection of Behavioral Science with public policy. </h7></p>
 
 
 <p> Feel free to reach me at lpradamed@gmail.com</p>
